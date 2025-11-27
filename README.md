@@ -1,0 +1,1 @@
+#I HATE pid tuning for my frc robotics team, so i designed this genetic algorithm to work with frc hardware and automatically tune pid. Only used this in sim so far, but I'm planning on testing in the robot room soon.
